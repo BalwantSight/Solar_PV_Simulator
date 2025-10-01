@@ -1,0 +1,5 @@
+pandas
+pvlib
+matplotlib
+customtkinter
+Pillow
